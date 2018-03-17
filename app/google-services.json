@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322646255746",
+    "firebase_url": "https://abhayfirebase.firebaseio.com",
+    "project_id": "abhayfirebase",
+    "storage_bucket": "abhayfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322646255746:android:52303086f7e0fe51",
+        "android_client_info": {
+          "package_name": "app.hackit.hackamigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322646255746-fokmjb4kv4u6cpds0vo9n0fusdb8btkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.hackit.hackamigo",
+            "certificate_hash": "e1b79312b749d932ae82db3c770c49be3623a647"
+          }
+        },
+        {
+          "client_id": "322646255746-j46hgd26o42olhqaa7g5ragmrpi77h23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU1Vc0SpRuW8kMhSEq_CQpT-yt2ePufrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322646255746-j46hgd26o42olhqaa7g5ragmrpi77h23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

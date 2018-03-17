@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names">
+        <item>Portal</item>
+        <item>Crops</item>
+        <item>Diseases</item>
+        <item>Capture</item>
+        <item>Five</item>
+        <item>Six</item>
+    </string-array>
+
+    <string-array name="names_1">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+    </string-array>
+
+<string-array name="image_url">
+    <item>http://images.indianexpress.com/2016/07/punjab-farmer-759.jpg</item>
+    <item>http://images.indianexpress.com/2016/07/punjab-farmer-759.jpg</item>
+    <item>http://images.indianexpress.com/2016/07/punjab-farmer-759.jpg</item>
+    <item>http://images.indianexpress.com/2016/07/punjab-farmer-759.jpg</item>
+    <item>http://images.indianexpress.com/2016/07/punjab-farmer-759.jpg</item>
+    <item>http://images.indianexpress.com/2016/07/punjab-farmer-759.jpg</item>
+</string-array>
+</resources>
