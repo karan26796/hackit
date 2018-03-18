@@ -25,7 +25,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".activities.DetectDiseaseActivity" />
-        <activity android:name=".activities.SoilDetectionActivity"></activity>
+        <activity android:name=".activities.SoilDetectionActivity" />
+        <activity android:name=".activities.RetrofitActivity"></activity>
     </application>
 
 </manifest>
