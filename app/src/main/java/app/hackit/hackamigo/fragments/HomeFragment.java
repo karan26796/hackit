@@ -10,12 +10,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-
-
 import java.util.ArrayList;
 
 import app.hackit.hackamigo.R;
 import app.hackit.hackamigo.activities.DetectDiseaseActivity;
+import app.hackit.hackamigo.activities.SoilDetectionActivity;
 import app.hackit.hackamigo.adapters.HomeAdapter;
 import app.hackit.hackamigo.model.Options;
 
@@ -74,6 +73,9 @@ public class HomeFragment extends Fragment implements
         switch (position) {
             case 0:
                 startActivity(new Intent(getContext(), DetectDiseaseActivity.class));
+                break;
+            case 1:
+                startActivity(new Intent(getContext(), SoilDetectionActivity.class));
                 break;
         }
     }
